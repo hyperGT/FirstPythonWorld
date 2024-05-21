@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1466dd0e-e6b2-4845-9873-d44d388a3690" name="Changes" comment="012">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstPythonWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstPythonWorld.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QIQYFz8d8fp6Ni6RlI4sVJopTj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/01/Desktop/Python-Workspace/FirstPythonWorld",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\01\Java-Workspace\Spring\FirstPythonWorld\Exercices1-25" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1466dd0e-e6b2-4845-9873-d44d388a3690" name="Changes" comment="" />
+      <created>1685038675713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685038675713</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Exercicio 001">
+      <created>1685039952100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685039952100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="others files">
+      <created>1685040056255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685040056255</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Código de soma">
+      <created>1685053347395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685053347395</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tipos primitivos exercicíos">
+      <created>1685053389264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685053389264</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Others files">
+      <created>1685053409534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685053409534</updated>
+    </task>
+    <task id="LOCAL-00006" summary="antecessor e sucessor - 005">
+      <created>1685222940205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685222940205</updated>
+    </task>
+    <task id="LOCAL-00007" summary="calcular dobro, triplo e raiz quadrada - 006">
+      <created>1685222967470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685222967470</updated>
+    </task>
+    <task id="LOCAL-00008" summary="converter metro para centimetros e milimetros - 007">
+      <created>1685223004013</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223004013</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tabuada - 008">
+      <created>1685223031579</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223031579</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tabuada - 009">
+      <created>1685223047808</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223047808</updated>
+    </task>
+    <task id="LOCAL-00011" summary="converter real para dólar  - 010">
+      <created>1685223153806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223153806</updated>
+    </task>
+    <task id="LOCAL-00012" summary="calcular a area de uma parede e litros de tinta gastos - 011">
+      <created>1685223187574</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223187574</updated>
+    </task>
+    <task id="LOCAL-00013" summary="calcular um desconto de 5% do valor de um produto - 012">
+      <created>1685223274928</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223274928</updated>
+    </task>
+    <task id="LOCAL-00014" summary="calcular o aumento de 15% do salário de um funcionário - 013">
+      <created>1685223316397</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223316397</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Hello World Básico - 001">
+      <created>1685223349373</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223349373</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Tipos primitivos - 004(numeração do exercício)">
+      <created>1685223386779</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223386779</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Calcular o dobro, triplo e a raiz quadrada - 006">
+      <created>1685223899414</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685223899414</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tabuada - 009">
+      <created>1685224206237</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224206237</updated>
+    </task>
+    <task id="LOCAL-00019" summary="converter metros em centímetros e milímetros - 008">
+      <created>1685224345642</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224345642</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Clássico receba duas notas do aluno e calcule a média - 007">
+      <created>1685224440119</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224440119</updated>
+    </task>
+    <task id="LOCAL-00021" summary="deleted">
+      <created>1685224526664</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224526664</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Hello World antes de tudo - 001">
+      <created>1685224653466</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224653466</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Tipos primitivos e operadores aritméticos - 002">
+      <created>1685224738103</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224738103</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Tipos primitivos e operadores aritméticos - 004">
+      <created>1685224752681</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224752681</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Soma simples em python - 003">
+      <created>1685224786570</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685224786570</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Converter real para dólar - 010">
+      <created>1685225071802</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685225071802</updated>
+    </task>
+    <task id="LOCAL-00027" summary="calcular quantos litros de tinta para pintar parede - 011">
+      <created>1685225389150</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1685225389150</updated>
+    </task>
+    <task id="LOCAL-00028" summary="012">
+      <created>1685225574956</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685225574956</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tipos primitivos exercicíos" />
+    <MESSAGE value="Others files" />
+    <MESSAGE value="antecessor e sucessor - 005" />
+    <MESSAGE value="calcular dobro, triplo e raiz quadrada - 006" />
+    <MESSAGE value="converter metro para centimetros e milimetros - 007" />
+    <MESSAGE value="tabuada - 008" />
+    <MESSAGE value="tabuada - 009" />
+    <MESSAGE value="converter real para dólar  - 010" />
+    <MESSAGE value="calcular a area de uma parede e litros de tinta gastos - 011" />
+    <MESSAGE value="calcular um desconto de 5% do valor de um produto - 012" />
+    <MESSAGE value="calcular o aumento de 15% do salário de um funcionário - 013" />
+    <MESSAGE value="Hello World Básico - 001" />
+    <MESSAGE value="Tipos primitivos - 004(numeração do exercício)" />
+    <MESSAGE value="Calcular o dobro, triplo e a raiz quadrada - 006" />
+    <MESSAGE value="Tabuada - 009" />
+    <MESSAGE value="converter metros em centímetros e milímetros - 008" />
+    <MESSAGE value="Clássico receba duas notas do aluno e calcule a média - 007" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="Hello World antes de tudo - 001" />
+    <MESSAGE value="Tipos primitivos e operadores aritméticos - 002" />
+    <MESSAGE value="Tipos primitivos e operadores aritméticos - 004" />
+    <MESSAGE value="Soma simples em python - 003" />
+    <MESSAGE value="Converter real para dólar - 010" />
+    <MESSAGE value="calcular quantos litros de tinta para pintar parede - 011" />
+    <MESSAGE value="012" />
+    <option name="LAST_COMMIT_MESSAGE" value="012" />
+  </component>
+</project>
