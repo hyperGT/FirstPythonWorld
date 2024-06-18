@@ -61,3 +61,15 @@ print(cursos.index("c")) # exibindo o índice do (primeiro) elemento "c"
 
 # retorna a quantidade de elementos que a tupla contém
 print(len(cursos)) # exibindo quantidade de elementos contidos dentro da tupla
+
+
+# Extra: como passar uma TUPLA em uma função??
+
+def salvar_carro(marca, modelo, ano, placa):
+    # salvando o carro no BD
+    print(f"Carro registrado com sucesso! {marca}/{modelo}/{ano}/{placa}")
+    print()
+
+salvar_carro(marca="Fiat", modelo="Palio", ano=1999, placa="ABC-1234")
+# ou
+salvar_carro("Fiat", "Siena", 2012, "AXC-5544")

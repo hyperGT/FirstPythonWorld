@@ -208,4 +208,13 @@ del contatos["bishopclaude966@gmail.com"]["telefone"]
 print(contatos) # {'andrewsnows111@gmail.com': {'nome': 'Andrew', 'telefone': '2222-3234'}, 'bishopclaude966@gmail.com': {'nome': 'Claude'}, 'massilovski0101@gmail.com': {'nome': 'Paul', 'telefone': '2222-0101'}}
 
 del contatos # apaga o dicionário todo
-print(contatos)
+#print(contatos)
+
+
+# Extra: como receber um dicionário em uma função??
+
+def salvar_carro(marca, modelo, ano, placa):
+    # salva o carro no banco de dados
+    print(f"Carro registrado com sucesso ! {marca}/{modelo}/{ano}/{placa}")
+
+salvar_carro(**{"marca": "Fiat", "modelo": "Palio", "ano": 1999, "placa": "ABC-1234"}) # passando um dicionário na função usando ** 
